@@ -1,0 +1,1 @@
+This is a personal project I’m working on in C#. I’m building this Poker Game Application console app to keep learning new programming languages and to explore my interest in software engineering, back-end/game development.
